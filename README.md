@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Gundekari-Srinidhi/DECEMBER-2025/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1763-longest-nice-substring](https://github.com/Gundekari-Srinidhi/DECEMBER-2025/tree/master/1763-longest-nice-substring) |
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Gundekari-Srinidhi/DECEMBER-2025/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1763-longest-nice-substring](https://github.com/Gundekari-Srinidhi/DECEMBER-2025/tree/master/1763-longest-nice-substring) |
 ## Divide and Conquer
 |  |
@@ -20,5 +22,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Gundekari-Srinidhi/DECEMBER-2025/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1763-longest-nice-substring](https://github.com/Gundekari-Srinidhi/DECEMBER-2025/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
