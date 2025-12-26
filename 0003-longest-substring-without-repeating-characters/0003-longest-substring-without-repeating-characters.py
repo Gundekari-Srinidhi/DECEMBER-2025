@@ -3,11 +3,11 @@ class Solution:
         max1=0
         n=len(s)
         for i in range(n):
-            ans=set()
+            ans=""
             for j in range(i,n):
                 if s[j] in ans:
                     break
-                ans.add(s[j])
+                ans+=s[j]
                 max1=max(max1,j-i+1)
         return max1
 
